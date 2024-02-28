@@ -1,5 +1,5 @@
 {
-  "name": "random",
+  "name": "tanrandom",
   "version": "1.0.2",
   "description": "deterministic randomization",
   "main": "./build/rerandom.js",

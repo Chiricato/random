@@ -14,10 +14,10 @@ ECMAScript 6 finally provides proper [Maps](https://developer.mozilla.org/en-US/
 
 ## Installation
 
-Install via [npm](https://www.npmjs.com/package/random):
+Install via [npm](https://www.npmjs.com/package/tanrandom):
 
 ```javascript
-npm install random
+npm install tanrandom
 ```
 
 Or just include as a script tag:
